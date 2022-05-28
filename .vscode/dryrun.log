@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/balli/code/kafka'
+docker-compose up -d
+make: Leaving directory `/Users/balli/code/kafka'
+ 
